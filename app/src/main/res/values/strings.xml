@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTubeSample</string>
+    <string name="menu_youtube_video">You Tube</string>
+    <string name="menu_lyrics">Letra</string>
+    <string name="openDrawer">Abrir Menu</string>
+    <string name="closeDrawer">Fechar Menu</string>
+    <string name="errorMessage">Não foi possível carregar o vídeo</string>
+</resources>
